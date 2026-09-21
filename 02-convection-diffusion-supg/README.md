@@ -2,4 +2,4 @@ Numerical analysis of the stationary convection-diffusion PDE in advection-domin
 
 [complete report](./Numerical_Methods_for_PDEs_02.pdf/)
 
-[Codes](./proejct2)
+Codes --> 'project2' folder
